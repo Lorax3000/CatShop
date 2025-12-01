@@ -1,0 +1,96 @@
+.feadback-form {
+    max-width: 600px !important;
+    padding: 20px !important;
+    margin-bottom: 150px !important;
+    background-color: #e7c8da !important;
+    border-radius: 10px !important;
+    font-family: 'Courier New', Courier, monospace !important;
+}
+
+
+body {
+    background-color: #5a5345 !important; /* любой цвет */
+}
+
+.search-form {
+    margin-left: 0 !important;
+}
+
+/*Catto*/
+.brand-text {
+
+    
+    color: #000000 !important; /* любой цвет */
+    font-family: 'Courier New', Courier, monospace
+ 
+}
+
+.my-navbar {
+    background-color: #ebc7e1 !important; /* любой цвет */
+}
+
+.my-navbar2 {
+    background-color: #b976b9 !important; /* любой цвет */
+}
+
+.nav-link {
+    color: #000000 !important; /* любой цвет */
+    font-family: 'Courier New', Courier, monospace;
+}
+.nav-link:hover {
+    color: #ff69b4 !important; /* любой цвет */
+}
+
+.btn {
+    background-color: #a06080 !important; /* любой цвет */
+    color: #ffffff !important; /* любой цвет */
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.btn:hover {
+    background-color: #ff69b4 !important; /* любой цвет */
+    color: #000000 !important; /* любой цвет */
+}
+
+
+main {
+  display: block;
+  min-height: 70vh; /* чтобы main был достаточно высоким */
+ 
+}
+
+.btn-submit {
+    background-color: #a06080 !important; /* любой цвет */
+    color: #ffffff !important; /* любой цвет */
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 10px !important;
+}
+.btn-submit:hover {
+    background-color: #ff69b4 !important; /* любой цвет */
+    
+}
+.btn-reset {
+    background-color: #b976b9 !important; /* любой цвет */
+    color: #ffffff !important; /* любой цвет */
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 10px !important;
+}
+.btn-reset:hover {
+    background-color: #ff69b4 !important; /* любой цвет */
+    
+}
+
+
+footer {
+    background-color: #ebc7e1 !important; /* любой цвет */
+    color: #000000 !important; /* любой цвет */
+    text-align: center;
+    padding: 10px 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+ /*ссылки футера*/
+footer a {
+    color: #000000 !important; /* любой цвет */
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+}
